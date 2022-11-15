@@ -1,0 +1,23 @@
+{
+    "firebaseConfig": {
+        "apiKey": "",
+        "authDomain": "",
+        "databaseURL": "",
+        "projectId": "",
+        "storageBucket": "",
+        "messagingSenderId": "",
+        "appId": ""
+    },
+    "userFirebase": {
+        "email": "",
+        "senha": ""
+    },
+    "databaseConfig": {
+        "firebase": 0,
+        "mariaDB": 1
+    },
+    "mariaDB": {
+        "nomeDB": "cepegdb",
+        "senhaDB": "12345"
+    }
+}

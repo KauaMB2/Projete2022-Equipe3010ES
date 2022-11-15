@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyCIaTexOOO8-yNd7ypqPNc0x-cZfJ7mM60",
+  authDomain: "cepeg2.firebaseapp.com",
+  projectId: "cepeg2",
+  storageBucket: "cepeg2.appspot.com",
+  messagingSenderId: "444364136957",
+  appId: "1:444364136957:web:e7217f8b1d271d6eba7994",
+  measurementId: "G-YHT7DCXK52"
+};
